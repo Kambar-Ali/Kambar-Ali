@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm preparing myself to enter in Industry.
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/Kambar-Ali">
+  <a href="https://github.com/Kambar-Ali" target="_blank">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   </a>
